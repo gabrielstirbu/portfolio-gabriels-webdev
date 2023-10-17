@@ -1,10 +1,12 @@
 # Gabriel's Portfolio
 
 ## Gabriel Stirbu
+![Screenshot 2023-10-17 at 03 57 46](https://github.com/gabrielstirbu/portfolio-gabriels-webdev/assets/145403373/1b1c950c-b4a7-48fb-be74-5f7a3f10dcee)
 
 Welcome to my portfolio! Here you can learn more about me, explore my work, and get in touch. Please feel free to navigate through the sections using the links provided in the navigation menu.
 
 ## Navigation
+![Screenshot 2023-10-17 at 03 58 09](https://github.com/gabrielstirbu/portfolio-gabriels-webdev/assets/145403373/b4e4c25c-7c53-41a7-ae5f-69d47eb209db)
 
 - Presentation
 - About Me/Contact
@@ -12,10 +14,12 @@ Welcome to my portfolio! Here you can learn more about me, explore my work, and 
 - Skills
 
 ## About Me
+![Screenshot 2023-10-17 at 03 58 42](https://github.com/gabrielstirbu/portfolio-gabriels-webdev/assets/145403373/3f9a4463-b2a0-4640-a0ce-67ad98400065)
 
 I'm Gabriel Stirbu, and my professional journey commenced at the age of 19 when I embarked on my career as a Back Office Agent. In this role, I cultivated my communication skills and honed my ability to adeptly resolve a diverse range of customer inquiries and issues.
 
 ## Work
+![Screenshot 2023-10-17 at 03 58 22](https://github.com/gabrielstirbu/portfolio-gabriels-webdev/assets/145403373/b1dd68aa-367a-472b-9050-3b242eadbf8c)
 
 ## Project 1 - First Portfolio
 
@@ -37,8 +41,10 @@ CSS Preprocessing
 Control/Git
 Browser Developer Tools
 Command Line
+![Screenshot 2023-10-17 at 03 58 31](https://github.com/gabrielstirbu/portfolio-gabriels-webdev/assets/145403373/f2de649a-9723-4766-9af5-b93c5ad40612)
 
 ## Contact Information
+![Screenshot 2023-10-17 at 03 58 42](https://github.com/gabrielstirbu/portfolio-gabriels-webdev/assets/145403373/bf80c8a0-6e07-46d4-858b-af75053caf79)
 
 ## Features
 
