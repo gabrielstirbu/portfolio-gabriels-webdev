@@ -141,3 +141,54 @@ body {
 .group-item {
   text-align: center;
 }
+
+/* Contact */
+.row {
+  display: flex;
+  justify-content: space-between;
+}
+
+.page-section {
+  flex: 1;
+  padding: 20px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  /* Add shadow to the sections */
+  border: 1px solid #ccc;
+  /* Add a border for the box effect */
+  border-radius: 5px;
+  /* Add rounded corners for the box effect */
+}
+
+.contact-info {
+  display: flex;
+  flex-direction: column;
+}
+
+.contact-item {
+  margin-bottom: 10px;
+}
+
+.contact-item:hover {
+  transition: all 1s;
+  border-bottom: 2px solid sandybrown;
+}
+
+h3 {
+  font-size: 15px;
+  margin-top: 15px !important;
+}
+
+.container p {
+  margin-top: 15px;
+  text-align: center;
+}
+
+@media (max-width: 768px) {
+  .page-section h2 {
+    font-size: 20px;
+  }
+
+  .work-item img {
+    max-width: 100%;
+  }
+}
