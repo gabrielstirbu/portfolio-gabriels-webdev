@@ -1,0 +1,65 @@
+/* Reset */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  line-height: 1.5;
+}
+
+/* Navigation bar */
+.customNav {
+  position: fixed;
+  width: 100%;
+  background-color: #f2e9e4 !important;
+  background-size: cover;
+  z-index: 10;
+}
+
+.navbar-nav {
+  margin-left: auto;
+  margin-right: 0 !important;
+}
+
+.navbar-brand img {
+  padding-right: 15px;
+  width: 55px;
+}
+
+.nav-item {
+  margin: 0px 15px;
+}
+
+/* Hover Nav property */
+.nav-link {
+  transition: all 1s;
+
+}
+
+.nav-link:hover {
+  border-bottom: 2px solid sandybrown;
+}
+
+/* Navigation dropdown menu */
+.dropdown-menu {
+  background-color: #f2e9e4 !important;
+  background-size: cover;
+}
+
+.dropdown-item:focus,
+.dropdown-item:hover {
+  color: #f2e9e4;
+  text-decoration: none;
+  transition: all 1s;
+  background: sandybrown;
+}
+
+/* Navigation links */
+.customNav a {
+  color: #333d29 !important;
+}
+
+
