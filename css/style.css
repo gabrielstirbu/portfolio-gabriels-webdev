@@ -62,4 +62,32 @@ body {
   color: #333d29 !important;
 }
 
+/* Jumbotron  */
+.meBackground {
+  background-image: url(../images/hero_image_bullet\ and\ gabriel.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: calc(100vh - 25px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Jumbotron copy */
+.jumboCopy {
+  width: 70%;
+  min-width: 500px;
+  max-width: 700px;
+  color: #e9ecef;
+  text-align: center;
+}
+
+/* Button */
+.btn-primary:active,
+.btn-primary:focus,
+.btn-primary {
+  transition: all 1s;
+  background-color: #333d29 !important;
+  border-color: #333d29 !important;
+}
 
